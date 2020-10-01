@@ -19,11 +19,11 @@ This project includes several components to produce a recommender system.
 ### Pictures of Powell's and Staff Picks
 
 ![Powell's Books marquee](./etc/img/powells-books-marquee.jpg)  
-<small>*Wikimedia Commons: Cacophony / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)*</small>  
+*Wikimedia Commons: Cacophony / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)*  
 Powell's Books flagship bookstore at 1005 W Burnside St., Portland, OR 97209  
 
 ![Shelf with staff picks](./etc/img/shelf-staff-picks.jpg)  
-<small>*Wikimedia Commons: Another Believer / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)*</small>  
+*Wikimedia Commons: Another Believer / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)*  
 An example of Powell's staff picks
 
 ## The Dataset
@@ -38,7 +38,7 @@ At the end of each year, staff create members create a top five ranking of their
 
 ## Database Schema
 
-[Link to database schema]()
+[Link to database schema](./db/powells_schema)
 
 ## License
 
