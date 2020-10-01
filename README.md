@@ -40,6 +40,10 @@ At the end of each year, staff create members create a top five ranking of their
 
 [Link to database schema]()
 
+## License
+
+This software is released under the MIT License. <https://opensource.org/licenses/MIT>
+
 ## References
 
 - [Wikipedia: Powell's Books](https://en.wikipedia.org/wiki/Powell%27s_Books)
