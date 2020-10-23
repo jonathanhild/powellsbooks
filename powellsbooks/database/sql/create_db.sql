@@ -1,3 +1,5 @@
+-- Copyright (c) 2020 Jonathan Hildenbrand 
+-- This software is released under the MIT License. https://opensource.org/licenses/MIT
 CREATE TABLE IF NOT EXISTS book(
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     title TEXT NOT NULL,
