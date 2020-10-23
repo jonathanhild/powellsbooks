@@ -6,5 +6,6 @@
             "name": "powells",
             "database": "${workspaceFolder:powellsbooks}/db/powells.db"
         }
-    ]
+    ],
+    "python.pythonPath": "env/bin/python3.8"
 }
